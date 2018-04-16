@@ -15,11 +15,6 @@ output:
 Assumption:
 the program does not check if the number is a positive integer
 
-
-Notice:
-Code can be used only for the assignment.  Other usages are not allowed
-
-Copyright 2018 Doron Nussbaum
 */ 
 
 /**************************************************************/
