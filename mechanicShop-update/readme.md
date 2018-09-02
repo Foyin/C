@@ -4,7 +4,7 @@ Program manages mechanic shop mechanics and customers. You can add and remove cu
 #### To Use:
 To compile type command:
 
- <b>make</b>
+ 'make'
 
 
 To run type command:
