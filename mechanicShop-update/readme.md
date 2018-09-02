@@ -3,12 +3,15 @@ Program manages mechanic shop mechanics and customers. You can add and remove cu
 
 #### To Use:
 To compile type command:
+
  make
 
 To run type command:
+
  ./mechanicshop
 
 To remove object file type:
+
  make clean
  
  ![screenshot from 2018-09-01 20-20-12](https://user-images.githubusercontent.com/15314851/44951070-f6a89100-ae27-11e8-8ed3-a9dccd31e57e.png)
