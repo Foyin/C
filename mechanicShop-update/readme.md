@@ -6,9 +6,11 @@ To compile type command:
 
  make
 
+
 To run type command:
 
  ./mechanicshop
+
 
 To remove object file type:
 
