@@ -5,8 +5,6 @@
 #define MAX_VEHICLES 4
 #define MAX_CUSTOMERS 6
 
-//Foyin Ogbara 100900459
-
 typedef struct {
 	
 	char make[MAX_STR];
